@@ -12,7 +12,7 @@
   </div>
   </div>
 
-# 🌸 Adiba Naushad's Portfolio
+# 🌸 [Adiba Naushad's Portfolio](https://mine-portfolio-i6luh9yc0-adibanaushad0-7213s-projects.vercel.app/)
 
 Welcome to my personal portfolio repository! ✨ 
 
@@ -125,6 +125,7 @@ I am always seeking to contribute to innovative projects in a high-growth tech e
 
 and many more, including code architecture and reusability 
 
+## link :  [mine_portfolio](https://mine-portfolio-i6luh9yc0-adibanaushad0-7213s-projects.vercel.app/)
 
 
 <p align="center">Made with 💖 and code by Adiba Naushad.</p>
